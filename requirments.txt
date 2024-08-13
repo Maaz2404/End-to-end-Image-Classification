@@ -1,0 +1,9 @@
+pandas
+matplotlib
+numpy
+tensorflow
+scikit-learn
+ray
+os
+pickle
+opencv-python
