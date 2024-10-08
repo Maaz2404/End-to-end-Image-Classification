@@ -3,7 +3,6 @@ matplotlib
 numpy
 tensorflow
 scikit-learn
-ray
-os
-pickle
+seaborn
 opencv-python
+-e .
